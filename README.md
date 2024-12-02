@@ -1,1 +1,1 @@
-# KONF-hw
+# Konfigurationsmanagement Homework
