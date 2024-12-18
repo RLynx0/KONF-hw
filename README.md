@@ -1,2 +1,3 @@
 # Konfigurationsmanagement Homework
-This was edited in the local repository
+Edited in both the local and cloned repository
+Merged in the local repository
